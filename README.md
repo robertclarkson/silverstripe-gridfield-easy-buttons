@@ -1,6 +1,7 @@
 # Silverstripe Gridfield easy buttons
 
 Adds two new buttons to Silverstripes Gridfield Detailform, Save and Close, and Save and Add Another
+
 ![alt text](https://github.com/robertclarkson/silverstripe-gridfield-easy-buttons/blob/master/gridfield-buttons.png "How it looks")
 
 ## Maintainer Contact
