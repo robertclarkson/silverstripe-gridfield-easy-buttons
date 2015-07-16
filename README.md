@@ -1,7 +1,17 @@
-# silverstripe-gridfield-easy-buttons
-Adds two new buttons to Silverstripes Gridfield Detailform, Save and Close, and Save and Add Another
+# Silverstripe Gridfield easy buttons
 
+Adds two new buttons to Silverstripes Gridfield Detailform, Save and Close, and Save and Add Another
 ![alt text](https://github.com/robertclarkson/silverstripe-gridfield-easy-buttons/blob/master/gridfield-buttons.png "How it looks")
+
+## Maintainer Contact
+
+Robert Clarkson (rob@robertclarkson.net)
+
+## Requirements
+
+SilverStripe 3.1+
+
+## How to use
 
 Easy to add to any Gridfield. On the GridFieldConfig, get the GridfieldDetailForm, then set the ItemRequestClass to this new extension.
 
